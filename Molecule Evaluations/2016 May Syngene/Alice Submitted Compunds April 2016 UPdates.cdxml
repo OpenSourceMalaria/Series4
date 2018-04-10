@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
 <CDXML
- CreationProgram="ChemDraw 15.0.0.107"
+ CreationProgram="ChemDraw 17.0.0.206"
  Name="Alice Submitted Compunds April 2016 UPdates.cdxml"
- BoundingBox="11.29 37.68 1401.24 868.20"
+ BoundingBox="11.78 39.16 1400.87 854.44"
  WindowPosition="0 0"
  WindowSize="0 0"
  FractionalWidths="yes"
@@ -19,11 +19,11 @@
  ShowTerminalCarbonLabels="no"
  ShowNonTerminalCarbonLabels="no"
  HideImplicitHydrogens="no"
- Magnification="1333"
- LabelFont="37"
+ Magnification="666"
+ LabelFont="40"
  LabelSize="12"
  LabelFace="96"
- CaptionFont="37"
+ CaptionFont="40"
  CaptionSize="12"
  HashSpacing="2.60"
  MarginWidth="2"
@@ -37,12 +37,13 @@
  AminoAcidTermini="HOH"
  ShowSequenceTermini="yes"
  ShowSequenceBonds="yes"
+ ShowSequenceUnlinkedBranches="no"
  ResidueWrapCount="40"
  ResidueBlockCount="10"
  ResidueZigZag="yes"
  NumberResidueBlocks="no"
  PrintMargins="36 36 36 36"
- MacPrintInfo="000300000048004800000000022F030FFFEEFFEE024103380365057B03DF000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+ MacPrintInfo="000300000048004800000000023B0332FFF5FFF50247033E0365057B03DF000200000048004800000000023B0332000100000064000000010001010100000001270F000100010000000000000000000000000002001901900000000000400000000000000000000100000000000000000000000000000000"
  ChemPropName=""
  ChemPropFormula="Chemical Formula: "
  ChemPropExactMass="Exact Mass: "
@@ -60,8 +61,13 @@
  ChemPropHenry="Henry&apos;s Law: "
  ChemPropEForm="Heat of Form: "
  ChemProptPSA="tPSA: "
+ ChemPropID=""
  color="0"
  bgcolor="1"
+ RxnAutonumberStart="1"
+ RxnAutonumberConditions="no"
+ RxnAutonumberStyle="Roman"
+ RxnAutonumberFormat="(#)"
 ><colortable>
 <color r="1" g="1" b="1"/>
 <color r="0" g="0" b="0"/>
@@ -73,9 +79,10 @@
 <color r="1" g="0" b="1"/>
 <color r="0" g="0.5020" b="0.2510"/>
 </colortable><fonttable>
-<font id="37" charset="x-mac-roman" name="Arial"/>
+<font id="40" charset="x-mac-roman" name="Arial"/>
+<font id="42" charset="x-mac-roman" name="Arial Bold"/>
 </fonttable><page
- id="8011"
+ id="8041"
  BoundingBox="0 0 1540 1046"
  HeaderPosition="36"
  FooterPosition="36"
@@ -84,11 +91,11 @@
  WidthPages="2"
 ><group
  id="7746"
- BoundingBox="695.69 37.68 991.89 283.27"
+ BoundingBox="696.54 39.16 991.51 271.42"
  Z="1243"
 ><fragment
  id="7023"
- BoundingBox="803.38 37.68 891.64 172.08"
+ BoundingBox="803.38 39.16 891.64 172.07"
  Z="880"
 ><n
  id="7024"
@@ -104,11 +111,11 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="815.09 166.83"
- BoundingBox="815.09 156.85 823.75 166.83"
+ p="814.14 166.82"
+ BoundingBox="815.05 158.24 821.82 166.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7026"
  p="833.20 171.03"
  Z="883"
@@ -125,10 +132,10 @@
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="844.54 149.83"
- BoundingBox="844.54 139.85 853.20 149.83"
+ p="843.59 149.82"
+ BoundingBox="844.50 141.24 851.27 149.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7029"
  p="833.20 137.03"
  Z="886"
@@ -141,10 +148,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="860.71 172.08"
- BoundingBox="860.71 162.10 869.37 172.08"
+ p="859.76 172.07"
+ BoundingBox="860.67 163.49 867.44 172.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7031"
  p="874.08 154.03"
  Z="894"
@@ -153,10 +160,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="870.70 158.33"
- BoundingBox="870.70 148.35 879.36 158.33"
+ p="869.75 158.32"
+ BoundingBox="870.66 149.74 877.43 158.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7032"
  p="864.09 140.28"
  Z="895"
@@ -197,11 +204,11 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="880.99 79.91"
- BoundingBox="880.99 69.76 890.33 80.01"
+ p="880.43 79.98"
+ BoundingBox="881.01 71.24 889.23 80.13"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" face="96">O</s></t></n><n
+><s font="40" size="12" face="96">O</s></t></n><n
  id="7040"
  p="833.20 120.03"
  Z="915"
@@ -210,10 +217,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="829.09 124.33"
- BoundingBox="829.09 114.18 838.43 124.43"
+ p="828.53 124.40"
+ BoundingBox="829.11 115.66 837.33 124.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="7041"
  p="873.72 62.97"
  Z="917"
@@ -226,10 +233,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="876.08 51.11"
- BoundingBox="876.08 41.13 883.41 51.11"
+ p="875.31 51.10"
+ BoundingBox="876.30 42.52 882.09 51.10"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7043"
  p="857.10 66.51"
  Z="921"
@@ -238,10 +245,10 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="854.20 70.81"
- BoundingBox="854.20 60.83 861.53 70.81"
+ p="853.43 70.80"
+ BoundingBox="854.42 62.22 860.21 70.80"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7044"
  p="818.47 111.53"
  Z="923"
@@ -291,12 +298,12 @@
  NeedsClean="yes"
  AS="N"
 ><t
- p="814.67 47.83"
- BoundingBox="814.67 37.68 826.01 47.93"
+ p="814.14 47.90"
+ BoundingBox="814.73 39.16 824.63 48.04"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><b
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><b
  id="7053"
  Z="887"
  B="7024"
@@ -503,7 +510,7 @@
 /></fragment><t
  id="7085"
  p="847.51 199.90"
- BoundingBox="703.13 189.04 991.89 283.27"
+ BoundingBox="703.63 191.16 991.51 271.42"
  Z="940"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -511,29 +518,29 @@
  LineHeight="auto"
  WordWrapWidth="290.88"
  LineStarts="54 85 118 143 158 182"
-><s font="37" size="12">5-((4-chlorobenzyl)oxy)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">13</s><s font="37" size="12" face="96">ClF</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O</s><s font="37" size="12" face="32">2
-</s><s font="37" size="12">Molecular Weight: 402.79
+><s font="40" size="12">5-((4-chlorobenzyl)oxy)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">13</s><s font="40" size="12" face="96">ClF</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O</s><s font="40" size="12" face="32">2
+</s><s font="40" size="12">Molecular Weight: 402.79
 CLogP: 5.03905
-</s><s font="37" size="12" color="0">Amount weighted: 2.53 mg</s></t><t
+</s><s font="40" size="12" color="0">Amount weighted: 2.53 mg</s></t><t
  id="7197"
  p="729.71 101.94"
- BoundingBox="695.69 91.08 763.73 132.47"
+ BoundingBox="696.54 93.20 763.73 129.69"
  Z="1242"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693150
+><s font="40" size="12" color="0" face="1">MMV693150
 AEW 286-1
 OSM-S-348</s></t></group><group
  id="7747"
- BoundingBox="358.29 37.68 674.17 283.27"
+ BoundingBox="359.14 39.16 673.80 271.42"
  Z="1244"
 ><fragment
  id="6957"
- BoundingBox="463.42 37.68 576.83 172.08"
+ BoundingBox="464.82 39.16 576.83 172.07"
  Z="818"
 ><n
  id="6958"
@@ -549,11 +556,11 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="500.28 166.83"
- BoundingBox="500.28 156.85 508.94 166.83"
+ p="499.33 166.82"
+ BoundingBox="500.24 158.24 507.01 166.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6960"
  p="518.39 171.03"
  Z="821"
@@ -570,10 +577,10 @@ OSM-S-348</s></t></group><group
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="529.73 149.83"
- BoundingBox="529.73 139.85 538.39 149.83"
+ p="528.78 149.82"
+ BoundingBox="529.69 141.24 536.46 149.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6963"
  p="518.39 137.03"
  Z="824"
@@ -586,10 +593,10 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="545.90 172.08"
- BoundingBox="545.90 162.10 554.56 172.08"
+ p="544.95 172.07"
+ BoundingBox="545.86 163.49 552.63 172.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6965"
  p="559.27 154.03"
  Z="832"
@@ -598,10 +605,10 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="555.89 158.33"
- BoundingBox="555.89 148.35 564.55 158.33"
+ p="554.94 158.32"
+ BoundingBox="555.85 149.74 562.62 158.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6966"
  p="549.28 140.28"
  Z="833"
@@ -642,11 +649,11 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="566.18 79.91"
- BoundingBox="566.18 69.76 575.52 80.01"
+ p="565.62 79.98"
+ BoundingBox="566.20 71.24 574.42 80.13"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" face="96">O</s></t></n><n
+><s font="40" size="12" face="96">O</s></t></n><n
  id="6974"
  p="518.39 120.03"
  Z="853"
@@ -655,10 +662,10 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="514.28 124.33"
- BoundingBox="514.28 114.18 523.62 124.43"
+ p="513.72 124.40"
+ BoundingBox="514.30 115.66 522.52 124.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="6975"
  p="558.91 62.97"
  Z="855"
@@ -671,10 +678,10 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="561.27 51.11"
- BoundingBox="561.27 41.13 568.60 51.11"
+ p="560.50 51.10"
+ BoundingBox="561.49 42.52 567.28 51.10"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="6977"
  p="542.29 66.51"
  Z="859"
@@ -683,10 +690,10 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="539.39 70.81"
- BoundingBox="539.39 60.83 546.72 70.81"
+ p="538.62 70.80"
+ BoundingBox="539.61 62.22 545.40 70.80"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="6978"
  p="503.66 111.53"
  Z="861"
@@ -735,12 +742,12 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="499.86 47.83"
- BoundingBox="499.86 37.68 511.20 47.93"
+ p="499.33 47.90"
+ BoundingBox="499.92 39.16 509.82 48.04"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><n
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><n
  id="6987"
  p="474.22 60.53"
  Z="878"
@@ -750,13 +757,13 @@ OSM-S-348</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="474.75 64.83"
- BoundingBox="463.42 54.68 474.75 64.93"
+ p="475.55 64.90"
+ BoundingBox="464.82 56.16 474.71 65.04"
  color="10"
  LabelJustification="Right"
  Justification="Right"
  LabelAlignment="Right"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><b
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><b
  id="6988"
  Z="825"
  B="6958"
@@ -970,7 +977,7 @@ OSM-S-348</s></t></group><group
 /></fragment><t
  id="7086"
  p="520.12 199.90"
- BoundingBox="366.07 189.04 674.17 283.27"
+ BoundingBox="366.57 191.16 673.80 271.42"
  Z="941"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -978,29 +985,29 @@ OSM-S-348</s></t></group><group
  LineHeight="auto"
  WordWrapWidth="316.75"
  LineStarts="58 89 123 148 163 187"
-><s font="37" size="12">5-((3,4-dichlorobenzyl)oxy)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">12</s><s font="37" size="12" face="96">Cl</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O</s><s font="37" size="12" face="32">2
-</s><s font="37" size="12">Molecular Weight: 437.23
+><s font="40" size="12">5-((3,4-dichlorobenzyl)oxy)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">12</s><s font="40" size="12" face="96">Cl</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O</s><s font="40" size="12" face="32">2
+</s><s font="40" size="12">Molecular Weight: 437.23
 CLogP: 5.63205
-</s><s font="37" size="12" color="0">Amount weighted: 2.27 mg</s></t><t
+</s><s font="40" size="12" color="0">Amount weighted: 2.27 mg</s></t><t
  id="7093"
  p="392.31 101.94"
- BoundingBox="358.29 91.08 426.33 132.47"
+ BoundingBox="359.14 93.20 426.33 129.69"
  Z="944"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693149
+><s font="40" size="12" color="0" face="1">MMV693149
 AEW 285-1
 OSM-S-347</s></t></group><group
  id="7748"
- BoundingBox="11.29 37.68 347.41 283.27"
+ BoundingBox="11.78 39.16 347.04 271.42"
  Z="1245"
 ><fragment
  id="4512"
- BoundingBox="122.50 37.68 235.91 172.08"
+ BoundingBox="123.90 39.16 235.91 172.07"
  Z="754"
 ><n
  id="4513"
@@ -1016,11 +1023,11 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="159.36 166.83"
- BoundingBox="159.36 156.85 168.02 166.83"
+ p="158.41 166.82"
+ BoundingBox="159.32 158.24 166.09 166.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="4515"
  p="177.47 171.03"
  Z="757"
@@ -1037,10 +1044,10 @@ OSM-S-347</s></t></group><group
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="188.81 149.83"
- BoundingBox="188.81 139.85 197.47 149.83"
+ p="187.86 149.82"
+ BoundingBox="188.77 141.24 195.54 149.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="4518"
  p="177.47 137.03"
  Z="760"
@@ -1053,10 +1060,10 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="204.98 172.08"
- BoundingBox="204.98 162.10 213.64 172.08"
+ p="204.03 172.07"
+ BoundingBox="204.94 163.49 211.71 172.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="4520"
  p="218.35 154.03"
  Z="768"
@@ -1065,10 +1072,10 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="214.97 158.33"
- BoundingBox="214.97 148.35 223.63 158.33"
+ p="214.02 158.32"
+ BoundingBox="214.93 149.74 221.70 158.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="4521"
  p="208.36 140.28"
  Z="769"
@@ -1109,11 +1116,11 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="225.26 79.91"
- BoundingBox="225.26 69.76 234.60 80.01"
+ p="224.70 79.98"
+ BoundingBox="225.28 71.24 233.50 80.13"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" face="96">O</s></t></n><n
+><s font="40" size="12" face="96">O</s></t></n><n
  id="4529"
  p="177.47 120.03"
  Z="789"
@@ -1122,10 +1129,10 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="173.36 124.33"
- BoundingBox="173.36 114.18 182.70 124.43"
+ p="172.80 124.40"
+ BoundingBox="173.38 115.66 181.60 124.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="4530"
  p="217.99 62.97"
  Z="791"
@@ -1138,10 +1145,10 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="220.35 51.11"
- BoundingBox="220.35 41.13 227.68 51.11"
+ p="219.58 51.10"
+ BoundingBox="220.57 42.52 226.36 51.10"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="4532"
  p="201.37 66.51"
  Z="795"
@@ -1150,10 +1157,10 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="198.47 70.81"
- BoundingBox="198.47 60.83 205.80 70.81"
+ p="197.70 70.80"
+ BoundingBox="198.69 62.22 204.48 70.80"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="4533"
  p="162.74 111.53"
  Z="797"
@@ -1207,12 +1214,12 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="158.94 47.83"
- BoundingBox="158.94 37.68 170.28 47.93"
+ p="158.41 47.90"
+ BoundingBox="159 39.16 168.90 48.04"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><n
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><n
  id="4599"
  p="133.30 60.53"
  Z="816"
@@ -1222,13 +1229,13 @@ OSM-S-347</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="133.83 64.83"
- BoundingBox="122.50 54.68 133.83 64.93"
+ p="134.63 64.90"
+ BoundingBox="123.90 56.16 133.79 65.04"
  color="10"
  LabelJustification="Right"
  Justification="Right"
  LabelAlignment="Right"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><b
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><b
  id="4543"
  Z="761"
  B="4513"
@@ -1449,7 +1456,7 @@ OSM-S-347</s></t></group><group
 /></fragment><t
  id="7087"
  p="179.35 199.90"
- BoundingBox="11.29 189.04 347.41 283.27"
+ BoundingBox="11.78 191.16 347.04 271.42"
  Z="942"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -1457,33 +1464,33 @@ OSM-S-347</s></t></group><group
  LineHeight="auto"
  WordWrapWidth="377.12"
  LineStarts="63 94 128 153 168 192"
-><s font="37" size="12">5-(1-(3,4-dichlorophenyl)ethoxy)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">20</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">Cl</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O</s><s font="37" size="12" face="32">2
-</s><s font="37" size="12">Molecular Weight: 451.25
+><s font="40" size="12">5-(1-(3,4-dichlorophenyl)ethoxy)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">20</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">Cl</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O</s><s font="40" size="12" face="32">2
+</s><s font="40" size="12">Molecular Weight: 451.25
 CLogP: 5.94105
 Amount weighted: 3.23 mg</s></t><t
  id="7092"
  p="72.35 101.94"
- BoundingBox="38.33 91.08 106.37 132.47"
+ BoundingBox="39.18 93.20 106.37 129.69"
  Z="943"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693148
+><s font="40" size="12" color="0" face="1">MMV693148
 AEW 284-1
 OSM-S-346</s></t></group><group
  id="7753"
- BoundingBox="791.96 360.10 1005.46 590.96"
+ BoundingBox="792.81 360.10 1005.09 579.11"
  Z="1247"
 ><group
  id="6830"
- BoundingBox="840.23 360.10 957.95 472.08"
+ BoundingBox="840.23 360.10 957.95 472.07"
  Z="1175"
 ><fragment
  id="6831"
- BoundingBox="840.23 360.10 957.95 472.08"
+ BoundingBox="840.23 360.10 957.95 472.07"
  Z="1123"
 ><n
  id="6832"
@@ -1499,11 +1506,11 @@ OSM-S-346</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="881.40 466.83"
- BoundingBox="881.40 456.85 890.06 466.83"
+ p="880.45 466.82"
+ BoundingBox="881.36 458.24 888.13 466.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6834"
  p="899.50 471.03"
  Z="1126"
@@ -1520,10 +1527,10 @@ OSM-S-346</s></t></group><group
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="910.84 449.83"
- BoundingBox="910.84 439.85 919.50 449.83"
+ p="909.89 449.82"
+ BoundingBox="910.80 441.24 917.57 449.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6837"
  p="899.50 437.03"
  Z="1129"
@@ -1536,10 +1543,10 @@ OSM-S-346</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="927.01 472.08"
- BoundingBox="927.01 462.10 935.67 472.08"
+ p="926.06 472.07"
+ BoundingBox="926.97 463.49 933.74 472.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6839"
  p="940.39 454.03"
  Z="1137"
@@ -1548,10 +1555,10 @@ OSM-S-346</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="937.01 458.33"
- BoundingBox="937.01 448.35 945.67 458.33"
+ p="936.06 458.32"
+ BoundingBox="936.97 449.74 943.74 458.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6840"
  p="930.39 440.27"
  Z="1138"
@@ -1598,10 +1605,10 @@ OSM-S-346</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="895.39 424.33"
- BoundingBox="895.39 414.18 904.73 424.43"
+ p="894.83 424.40"
+ BoundingBox="895.41 415.66 903.63 424.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="6848"
  p="884.78 411.53"
  Z="1158"
@@ -1651,11 +1658,11 @@ OSM-S-346</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="948.50 379.90"
- BoundingBox="948.50 369.92 955.83 379.90"
+ p="947.73 379.89"
+ BoundingBox="948.72 371.31 954.51 379.89"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">F</s></t></n><b
+><s font="40" size="12" color="10" face="96">F</s></t></n><b
  id="6858"
  Z="1130"
  B="6832"
@@ -1843,7 +1850,7 @@ OSM-S-346</s></t></group><group
 /></fragment></group><t
  id="7195"
  p="917.75 507.59"
- BoundingBox="830.04 496.73 1005.46 590.96"
+ BoundingBox="830.54 498.85 1005.09 579.11"
  Z="1240"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -1851,33 +1858,33 @@ OSM-S-346</s></t></group><group
  LineHeight="auto"
  WordWrapWidth="241.31"
  LineStarts="32 63 92 117 132 156"
-><s font="37" size="12">3-(4-fluorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">15</s><s font="37" size="12" face="96">FN</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O
-</s><s font="37" size="12">Molecular Weight: 334.35
+><s font="40" size="12">3-(4-fluorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">15</s><s font="40" size="12" face="96">FN</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O
+</s><s font="40" size="12">Molecular Weight: 334.35
 CLogP: 4.29805
-</s><s font="37" size="12" color="0">Amount weighted: 2.04 mg</s></t><t
+</s><s font="40" size="12" color="0">Amount weighted: 2.04 mg</s></t><t
  id="7196"
  p="825.98 413.15"
- BoundingBox="791.96 402.29 860 443.68"
+ BoundingBox="792.81 404.41 860 440.90"
  Z="1241"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693154
+><s font="40" size="12" color="0" face="1">MMV693154
 AEW 293-1
 OSM-S-352</s></t></group><group
  id="7754"
- BoundingBox="576.64 360.10 785 590.52"
+ BoundingBox="577.49 360.10 784.62 578.67"
  Z="1248"
 ><group
  id="7751"
- BoundingBox="576.64 360.10 751.83 472.08"
+ BoundingBox="577.49 360.10 750.45 472.07"
  Z="1246"
 ><fragment
  id="6773"
- BoundingBox="620.88 360.10 751.83 472.08"
+ BoundingBox="620.88 360.10 750.45 472.07"
  Z="1071"
 ><n
  id="6774"
@@ -1893,11 +1900,11 @@ OSM-S-352</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="662.04 466.83"
- BoundingBox="662.04 456.85 670.70 466.83"
+ p="661.09 466.82"
+ BoundingBox="662 458.24 668.77 466.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6776"
  p="680.14 471.03"
  Z="1074"
@@ -1914,10 +1921,10 @@ OSM-S-352</s></t></group><group
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="691.48 449.83"
- BoundingBox="691.48 439.85 700.14 449.83"
+ p="690.53 449.82"
+ BoundingBox="691.44 441.24 698.21 449.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6779"
  p="680.14 437.03"
  Z="1077"
@@ -1930,10 +1937,10 @@ OSM-S-352</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="707.65 472.08"
- BoundingBox="707.65 462.10 716.31 472.08"
+ p="706.70 472.07"
+ BoundingBox="707.61 463.49 714.38 472.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6781"
  p="721.03 454.03"
  Z="1085"
@@ -1942,10 +1949,10 @@ OSM-S-352</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="717.65 458.33"
- BoundingBox="717.65 448.35 726.31 458.33"
+ p="716.70 458.32"
+ BoundingBox="717.61 449.74 724.38 458.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6782"
  p="711.03 440.27"
  Z="1086"
@@ -1991,10 +1998,10 @@ OSM-S-352</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="676.03 424.33"
- BoundingBox="676.03 414.18 685.37 424.43"
+ p="675.47 424.40"
+ BoundingBox="676.05 415.66 684.27 424.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="6790"
  p="665.42 411.53"
  Z="1106"
@@ -2044,12 +2051,12 @@ OSM-S-352</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="740.49 437.50"
- BoundingBox="740.49 427.35 751.83 437.60"
+ p="739.96 437.57"
+ BoundingBox="740.55 428.83 750.45 437.71"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><n
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><n
  id="7763"
  p="732.04 375.60"
  Z="1252"
@@ -2059,12 +2066,12 @@ OSM-S-352</s></t></group><group
  NeedsClean="yes"
  AS="N"
 ><t
- p="728.24 379.90"
- BoundingBox="728.24 369.75 739.58 380"
+ p="727.71 379.97"
+ BoundingBox="728.30 371.23 738.20 380.11"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><b
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><b
  id="6800"
  Z="1078"
  B="6774"
@@ -2259,19 +2266,19 @@ OSM-S-352</s></t></group><group
 /></fragment><t
  id="7100"
  p="610.66 413.15"
- BoundingBox="576.64 402.29 644.68 443.68"
+ BoundingBox="577.49 404.41 644.68 440.90"
  Z="948"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693153
+><s font="40" size="12" color="0" face="1">MMV693153
 AEW 292-1
 OSM-S-351</s></t></group><t
  id="7194"
  p="686.28 507.15"
- BoundingBox="587.56 496.29 785 590.52"
+ BoundingBox="588.07 498.41 784.62 578.67"
  Z="1239"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -2279,21 +2286,21 @@ OSM-S-351</s></t></group><t
  LineHeight="auto"
  WordWrapWidth="264.37"
  LineStarts="36 67 98 123 138 162"
-><s font="37" size="12">3-(2,4-dichlorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">Cl</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O
-</s><s font="37" size="12">Molecular Weight: 385.25
+><s font="40" size="12">3-(2,4-dichlorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">Cl</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O
+</s><s font="40" size="12">Molecular Weight: 385.25
 CLogP: 5.33106
-</s><s font="37" size="12" color="0">Amount weighted: 2.22 mg</s></t></group><group
+</s><s font="40" size="12" color="0">Amount weighted: 2.22 mg</s></t></group><group
  id="7755"
- BoundingBox="313.65 360.10 529.64 585.19"
+ BoundingBox="314.50 360.10 529.26 573.34"
  Z="1249"
 ><group
  id="6763"
- BoundingBox="354.85 360.10 496.32 472.08"
+ BoundingBox="354.85 360.10 494.94 472.07"
  Z="1066"
 ><fragment
  id="6708"
- BoundingBox="354.85 360.10 496.32 472.08"
+ BoundingBox="354.85 360.10 494.94 472.07"
  Z="1014"
 ><n
  id="6709"
@@ -2309,11 +2316,11 @@ CLogP: 5.33106
  NeedsClean="yes"
  AS="N"
 ><t
- p="396.02 466.83"
- BoundingBox="396.02 456.85 404.68 466.83"
+ p="395.07 466.82"
+ BoundingBox="395.98 458.24 402.75 466.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6711"
  p="414.12 471.03"
  Z="1017"
@@ -2330,10 +2337,10 @@ CLogP: 5.33106
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="425.46 449.83"
- BoundingBox="425.46 439.85 434.12 449.83"
+ p="424.51 449.82"
+ BoundingBox="425.42 441.24 432.19 449.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6714"
  p="414.12 437.03"
  Z="1020"
@@ -2346,10 +2353,10 @@ CLogP: 5.33106
  NeedsClean="yes"
  AS="N"
 ><t
- p="441.63 472.08"
- BoundingBox="441.63 462.10 450.29 472.08"
+ p="440.68 472.07"
+ BoundingBox="441.59 463.49 448.36 472.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6716"
  p="455.01 454.03"
  Z="1028"
@@ -2358,10 +2365,10 @@ CLogP: 5.33106
  NeedsClean="yes"
  AS="N"
 ><t
- p="451.63 458.33"
- BoundingBox="451.63 448.35 460.29 458.33"
+ p="450.68 458.32"
+ BoundingBox="451.59 449.74 458.36 458.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6717"
  p="445.01 440.27"
  Z="1029"
@@ -2407,10 +2414,10 @@ CLogP: 5.33106
  NeedsClean="yes"
  AS="N"
 ><t
- p="410.01 424.33"
- BoundingBox="410.01 414.18 419.35 424.43"
+ p="409.45 424.40"
+ BoundingBox="410.03 415.66 418.25 424.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="6725"
  p="399.40 411.53"
  Z="1049"
@@ -2460,12 +2467,12 @@ CLogP: 5.33106
  NeedsClean="yes"
  AS="N"
 ><t
- p="462.22 379.90"
- BoundingBox="462.22 369.75 473.56 380"
+ p="461.69 379.97"
+ BoundingBox="462.28 371.23 472.18 380.11"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><n
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><n
  id="6770"
  p="488.78 400.87"
  Z="1069"
@@ -2475,12 +2482,12 @@ CLogP: 5.33106
  NeedsClean="yes"
  AS="N"
 ><t
- p="484.98 405.17"
- BoundingBox="484.98 395.02 496.32 405.27"
+ p="484.45 405.24"
+ BoundingBox="485.04 396.50 494.94 405.38"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">Cl</s></t></n><b
+><s font="40" size="12" color="10" face="96">Cl</s></t></n><b
  id="6734"
  Z="1021"
  B="6709"
@@ -2675,19 +2682,19 @@ CLogP: 5.33106
 /></fragment></group><t
  id="7099"
  p="347.67 413.15"
- BoundingBox="313.65 402.29 381.69 443.68"
+ BoundingBox="314.50 404.41 381.69 440.90"
  Z="947"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693152
+><s font="40" size="12" color="0" face="1">MMV693152
 AEW 291-1
 OSM-S-350</s></t><t
  id="7193"
  p="430.92 501.82"
- BoundingBox="332.20 490.96 529.64 585.19"
+ BoundingBox="332.71 493.08 529.26 573.34"
  Z="1238"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -2695,21 +2702,21 @@ OSM-S-350</s></t><t
  LineHeight="auto"
  WordWrapWidth="247.21"
  LineStarts="36 67 98 123 138 162"
-><s font="37" size="12">3-(3,4-dichlorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">Cl</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O
-</s><s font="37" size="12">Molecular Weight: 385.25
+><s font="40" size="12">3-(3,4-dichlorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">Cl</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O
+</s><s font="40" size="12">Molecular Weight: 385.25
 CLogP: 5.46106
-</s><s font="37" size="12" color="0">Amount weighted: 2.56 mg</s></t></group><group
+</s><s font="40" size="12" color="0">Amount weighted: 2.56 mg</s></t></group><group
  id="7756"
- BoundingBox="11.70 360.10 302.52 584.52"
+ BoundingBox="12.20 360.10 302.15 572.67"
  Z="1250"
 ><group
  id="6888"
- BoundingBox="90.60 360.10 228.96 472.08"
+ BoundingBox="90.60 360.10 227.64 472.07"
  Z="1230"
 ><fragment
  id="6889"
- BoundingBox="90.60 360.10 228.96 472.08"
+ BoundingBox="90.60 360.10 227.64 472.07"
  Z="1178"
 ><n
  id="6890"
@@ -2725,11 +2732,11 @@ CLogP: 5.46106
  NeedsClean="yes"
  AS="N"
 ><t
- p="131.77 466.83"
- BoundingBox="131.77 456.85 140.43 466.83"
+ p="130.82 466.82"
+ BoundingBox="131.73 458.24 138.50 466.82"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6892"
  p="149.87 471.03"
  Z="1181"
@@ -2746,10 +2753,10 @@ CLogP: 5.46106
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="161.21 449.83"
- BoundingBox="161.21 439.85 169.87 449.83"
+ p="160.26 449.82"
+ BoundingBox="161.17 441.24 167.94 449.82"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6895"
  p="149.87 437.03"
  Z="1184"
@@ -2762,10 +2769,10 @@ CLogP: 5.46106
  NeedsClean="yes"
  AS="N"
 ><t
- p="177.38 472.08"
- BoundingBox="177.38 462.10 186.04 472.08"
+ p="176.43 472.07"
+ BoundingBox="177.34 463.49 184.11 472.07"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6897"
  p="190.76 454.03"
  Z="1192"
@@ -2774,10 +2781,10 @@ CLogP: 5.46106
  NeedsClean="yes"
  AS="N"
 ><t
- p="187.38 458.33"
- BoundingBox="187.38 448.35 196.04 458.33"
+ p="186.43 458.32"
+ BoundingBox="187.34 449.74 194.11 458.32"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="6898"
  p="180.76 440.27"
  Z="1193"
@@ -2823,10 +2830,10 @@ CLogP: 5.46106
  NeedsClean="yes"
  AS="N"
 ><t
- p="145.76 424.33"
- BoundingBox="145.76 414.18 155.10 424.43"
+ p="145.20 424.40"
+ BoundingBox="145.78 415.66 154 424.55"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="6906"
  p="135.15 411.53"
  Z="1213"
@@ -2876,11 +2883,11 @@ CLogP: 5.46106
  NeedsClean="yes"
  AS="N"
 ><t
- p="198.87 379.90"
- BoundingBox="198.87 369.92 206.20 379.90"
+ p="198.10 379.89"
+ BoundingBox="199.09 371.31 204.88 379.89"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">F</s></t></n><n
+><s font="40" size="12" color="10" face="96">F</s></t></n><n
  id="6915"
  p="224.53 400.87"
  Z="1233"
@@ -2890,11 +2897,11 @@ CLogP: 5.46106
  NeedsClean="yes"
  AS="N"
 ><t
- p="221.63 405.17"
- BoundingBox="221.63 395.19 228.96 405.17"
+ p="220.86 405.16"
+ BoundingBox="221.85 396.58 227.64 405.16"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">F</s></t></n><b
+><s font="40" size="12" color="10" face="96">F</s></t></n><b
  id="6916"
  Z="1185"
  B="6890"
@@ -3089,19 +3096,19 @@ CLogP: 5.46106
 /></fragment></group><t
  id="7098"
  p="56.35 413.15"
- BoundingBox="22.33 402.29 90.37 443.68"
+ BoundingBox="23.18 404.41 90.37 440.90"
  Z="946"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693151
+><s font="40" size="12" color="0" face="1">MMV693151
 AEW 290-1
 OSM-S-349</s></t><t
  id="7192"
  p="157.11 501.15"
- BoundingBox="11.70 490.29 302.52 584.52"
+ BoundingBox="12.20 492.41 302.15 572.67"
  Z="1237"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -3109,17 +3116,17 @@ OSM-S-349</s></t><t
  LineHeight="auto"
  WordWrapWidth="296.29"
  LineStarts="56 67 97 122 137 161"
-><s font="37" size="12">3-(3,4-difluorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O
-</s><s font="37" size="12">Molecular Weight: 352.34
+><s font="40" size="12">3-(3,4-difluorophenyl)-5-phenethoxy-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O
+</s><s font="40" size="12">Molecular Weight: 352.34
 CLogP: 4.37106
-</s><s font="37" size="12" color="0">Amount weighted: 3.55 mg</s></t></group><group
+</s><s font="40" size="12" color="0">Amount weighted: 3.55 mg</s></t></group><group
  id="7757"
- BoundingBox="1059.31 339.05 1401.24 573.23"
+ BoundingBox="1060.16 340.44 1400.87 561.38"
  Z="1251"
 ><fragment
  id="7103"
- BoundingBox="1171.61 339.05 1289.32 470"
+ BoundingBox="1171.61 340.44 1289.32 469.99"
  Z="949"
 ><n
  id="7104"
@@ -3135,11 +3142,11 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1212.78 464.75"
- BoundingBox="1212.78 454.77 1221.44 464.75"
+ p="1211.83 464.74"
+ BoundingBox="1212.74 456.16 1219.51 464.74"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7106"
  p="1230.88 468.95"
  Z="952"
@@ -3156,10 +3163,10 @@ CLogP: 4.37106
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="1242.22 447.75"
- BoundingBox="1242.22 437.77 1250.88 447.75"
+ p="1241.27 447.74"
+ BoundingBox="1242.18 439.16 1248.95 447.74"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7109"
  p="1230.88 434.95"
  Z="955"
@@ -3172,10 +3179,10 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1258.39 470"
- BoundingBox="1258.39 460.02 1267.05 470"
+ p="1257.44 469.99"
+ BoundingBox="1258.35 461.41 1265.12 469.99"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7111"
  p="1271.76 451.95"
  Z="963"
@@ -3184,10 +3191,10 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1268.38 456.25"
- BoundingBox="1268.38 446.27 1277.04 456.25"
+ p="1267.43 456.24"
+ BoundingBox="1268.34 447.66 1275.11 456.24"
  LabelJustification="Left"
-><s font="37" size="12" face="96">N</s></t></n><n
+><s font="40" size="12" face="96">N</s></t></n><n
  id="7112"
  p="1261.77 438.20"
  Z="964"
@@ -3228,11 +3235,11 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1278.67 377.83"
- BoundingBox="1278.67 367.68 1288.01 377.93"
+ p="1278.11 377.90"
+ BoundingBox="1278.69 369.16 1286.91 378.05"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" face="96">O</s></t></n><n
+><s font="40" size="12" face="96">O</s></t></n><n
  id="7120"
  p="1230.88 417.95"
  Z="984"
@@ -3241,10 +3248,10 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1226.77 422.25"
- BoundingBox="1226.77 412.10 1236.11 422.35"
+ p="1226.21 422.32"
+ BoundingBox="1226.79 413.58 1235.01 422.47"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="7121"
  p="1271.41 360.89"
  Z="986"
@@ -3257,10 +3264,10 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1273.76 349.03"
- BoundingBox="1273.76 339.05 1281.09 349.03"
+ p="1272.99 349.02"
+ BoundingBox="1273.98 340.44 1279.77 349.02"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7123"
  p="1254.78 364.43"
  Z="990"
@@ -3269,10 +3276,10 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1251.88 368.73"
- BoundingBox="1251.88 358.75 1259.21 368.73"
+ p="1251.11 368.72"
+ BoundingBox="1252.10 360.14 1257.89 368.72"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7124"
  p="1216.16 409.45"
  Z="992"
@@ -3328,12 +3335,12 @@ CLogP: 4.37106
  NeedsClean="yes"
  AS="N"
 ><t
- p="1226.77 371.25"
- BoundingBox="1226.77 361.10 1244.77 371.35"
+ p="1226.21 371.32"
+ BoundingBox="1226.79 362.58 1243.25 371.47"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="37" size="12" color="10" face="96">OH</s></t></n><b
+><s font="40" size="12" color="10" face="96">OH</s></t></n><b
  id="7134"
  Z="956"
  B="7104"
@@ -3548,19 +3555,19 @@ CLogP: 4.37106
 /></fragment><t
  id="7094"
  p="1093.33 415.46"
- BoundingBox="1059.31 404.60 1127.35 445.99"
+ BoundingBox="1060.16 406.72 1127.35 443.21"
  Z="945"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 20 29"
-><s font="37" size="12" color="0" face="1">MMV693155
+><s font="40" size="12" color="0" face="1">MMV693155
 AEW 294-1
 OSM-S-353</s></t><t
  id="7167"
  p="1263.19 489.86"
- BoundingBox="1125.14 479 1401.24 573.23"
+ BoundingBox="1125.64 481.12 1400.87 561.38"
  Z="1013"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -3568,13 +3575,13 @@ OSM-S-353</s></t><t
  LineHeight="auto"
  WordWrapWidth="291.58"
  LineStarts="54 94 125 150 165 189"
-><s font="37" size="12">3-((3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazin-5-yl)oxy)-2-phenylpropan-1-ol
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">21</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">18</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O</s><s font="37" size="12" face="32">3
-</s><s font="37" size="12">Molecular Weight: 412.40
+><s font="40" size="12">3-((3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazin-5-yl)oxy)-2-phenylpropan-1-ol
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">21</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">18</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O</s><s font="40" size="12" face="32">3
+</s><s font="40" size="12">Molecular Weight: 412.40
 CLogP: 3.51705
-</s><s font="37" size="12" color="0">Amount weighted: 1.81 mg</s></t></group><fragment
+</s><s font="40" size="12" color="0">Amount weighted: 1.81 mg</s></t></group><fragment
  id="60"
- BoundingBox="103.54 627.35 217.70 749.22"
+ BoundingBox="103.54 628.74 216.38 749.21"
  Z="1254"
 ><n
  id="1"
@@ -3585,10 +3592,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="204.25 637.33"
- BoundingBox="204.25 627.35 211.58 637.33"
+ p="203.48 637.32"
+ BoundingBox="204.47 628.74 210.26 637.32"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="2"
  p="201.90 649.20"
  Z="1256"
@@ -3601,10 +3608,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="210.37 666.14"
- BoundingBox="210.37 656.16 217.70 666.14"
+ p="209.60 666.13"
+ BoundingBox="210.59 657.55 216.38 666.13"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="4"
  p="185.27 652.74"
  Z="1258"
@@ -3613,10 +3620,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="181.16 657.04"
- BoundingBox="181.16 646.89 190.50 657.14"
+ p="180.60 657.11"
+ BoundingBox="181.18 648.37 189.40 657.26"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="5"
  p="180.02 668.90"
  Z="1259"
@@ -3657,10 +3664,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="170.87 735.46"
- BoundingBox="170.87 725.48 179.53 735.46"
+ p="169.92 735.45"
+ BoundingBox="170.83 726.87 177.60 735.45"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="13"
  p="164.26 744.92"
  Z="1267"
@@ -3669,10 +3676,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="160.88 749.22"
- BoundingBox="160.88 739.24 169.54 749.22"
+ p="159.93 749.21"
+ BoundingBox="160.84 740.63 167.61 749.21"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="14"
  p="148.09 739.66"
  Z="1268"
@@ -3690,10 +3697,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="115.26 743.96"
- BoundingBox="115.26 733.98 123.92 743.96"
+ p="114.31 743.95"
+ BoundingBox="115.22 735.37 121.99 743.95"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="17"
  p="118.64 722.66"
  Z="1271"
@@ -3712,11 +3719,11 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="129.95 701.46"
- BoundingBox="129.95 691.31 137.95 701.56"
+ p="129.37 701.53"
+ BoundingBox="129.91 692.79 136.74 701.67"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">S</s></t></n><n
+><s font="40" size="12" color="10" face="96">S</s></t></n><n
  id="20"
  p="118.64 688.66"
  Z="1274"
@@ -3758,10 +3765,10 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="144.71 726.96"
- BoundingBox="144.71 716.98 153.37 726.96"
+ p="143.76 726.95"
+ BoundingBox="144.67 718.37 151.44 726.95"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><b
+><s font="40" size="12" color="0" face="96">N</s></t></n><b
  id="29"
  Z="1282"
  B="1"
@@ -3954,7 +3961,7 @@ CLogP: 3.51705
  BS="N"
 /></fragment><fragment
  id="62"
- BoundingBox="405.78 619.35 519.94 741.22"
+ BoundingBox="405.78 620.74 518.62 741.21"
  Z="1312"
 ><n
  id="7774"
@@ -3965,10 +3972,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="506.49 629.33"
- BoundingBox="506.49 619.35 513.82 629.33"
+ p="505.72 629.32"
+ BoundingBox="506.71 620.74 512.50 629.32"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7775"
  p="504.14 641.20"
  Z="1314"
@@ -3981,10 +3988,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="512.61 658.14"
- BoundingBox="512.61 648.16 519.94 658.14"
+ p="511.84 658.13"
+ BoundingBox="512.83 649.55 518.62 658.13"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7777"
  p="487.51 644.74"
  Z="1316"
@@ -3993,10 +4000,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="483.40 649.04"
- BoundingBox="483.40 638.89 492.74 649.14"
+ p="482.84 649.11"
+ BoundingBox="483.42 640.37 491.64 649.26"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="7778"
  p="482.26 660.90"
  Z="1317"
@@ -4037,10 +4044,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="473.11 727.46"
- BoundingBox="473.11 717.48 481.77 727.46"
+ p="472.16 727.45"
+ BoundingBox="473.07 718.87 479.84 727.45"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7786"
  p="466.50 736.92"
  Z="1325"
@@ -4049,10 +4056,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="463.12 741.22"
- BoundingBox="463.12 731.24 471.78 741.22"
+ p="462.17 741.21"
+ BoundingBox="463.08 732.63 469.85 741.21"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7787"
  p="450.33 731.66"
  Z="1326"
@@ -4070,10 +4077,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="417.50 735.96"
- BoundingBox="417.50 725.98 426.16 735.96"
+ p="416.55 735.95"
+ BoundingBox="417.46 727.37 424.23 735.95"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7790"
  p="420.88 714.66"
  Z="1329"
@@ -4091,11 +4098,11 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="432.19 693.46"
- BoundingBox="432.19 683.31 440.19 693.56"
+ p="431.61 693.53"
+ BoundingBox="432.15 684.79 438.98 693.67"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">S</s></t></n><n
+><s font="40" size="12" color="10" face="96">S</s></t></n><n
  id="7793"
  p="420.88 680.66"
  Z="1332"
@@ -4139,11 +4146,11 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="446.22 684.96"
- BoundingBox="446.22 674.81 455.56 685.06"
+ p="445.66 685.03"
+ BoundingBox="446.24 676.29 454.46 685.18"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">O</s></t></n><n
+><s font="40" size="12" color="10" face="96">O</s></t></n><n
  id="28"
  p="450.33 714.66"
  Z="1340"
@@ -4151,10 +4158,10 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="446.95 718.96"
- BoundingBox="446.95 708.98 455.61 718.96"
+ p="446 718.95"
+ BoundingBox="446.91 710.37 453.68 718.95"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><b
+><s font="40" size="12" color="0" face="96">N</s></t></n><b
  id="7801"
  Z="1341"
  B="7774"
@@ -4354,7 +4361,7 @@ CLogP: 3.51705
  BS="N"
 /></fragment><fragment
  id="64"
- BoundingBox="704.13 624.69 818.29 746.55"
+ BoundingBox="704.13 626.08 816.97 746.54"
  Z="1372"
 ><n
  id="7831"
@@ -4365,10 +4372,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="804.84 634.67"
- BoundingBox="804.84 624.69 812.17 634.67"
+ p="804.07 634.66"
+ BoundingBox="805.06 626.08 810.85 634.66"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7832"
  p="802.49 646.54"
  Z="1374"
@@ -4381,10 +4388,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="810.96 663.47"
- BoundingBox="810.96 653.49 818.29 663.47"
+ p="810.19 663.46"
+ BoundingBox="811.18 654.88 816.97 663.46"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7834"
  p="785.86 650.07"
  Z="1376"
@@ -4393,10 +4400,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="781.75 654.37"
- BoundingBox="781.75 644.22 791.09 654.47"
+ p="781.19 654.44"
+ BoundingBox="781.77 645.70 789.99 654.59"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="7835"
  p="780.61 666.24"
  Z="1377"
@@ -4437,10 +4444,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="771.46 732.79"
- BoundingBox="771.46 722.81 780.12 732.79"
+ p="770.51 732.78"
+ BoundingBox="771.42 724.20 778.19 732.78"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7843"
  p="764.85 742.25"
  Z="1385"
@@ -4449,10 +4456,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="761.47 746.55"
- BoundingBox="761.47 736.57 770.13 746.55"
+ p="760.52 746.54"
+ BoundingBox="761.43 737.96 768.20 746.54"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7844"
  p="748.68 736.99"
  Z="1386"
@@ -4470,10 +4477,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="715.86 741.29"
- BoundingBox="715.86 731.31 724.52 741.29"
+ p="714.91 741.28"
+ BoundingBox="715.82 732.70 722.59 741.28"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7847"
  p="719.24 719.99"
  Z="1389"
@@ -4491,12 +4498,12 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="730.54 698.79"
- BoundingBox="730.54 688.64 738.54 698.89"
+ p="729.96 698.86"
+ BoundingBox="730.50 690.12 737.33 699"
  color="10"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="37" size="12" color="10" face="96">S</s></t></n><n
+><s font="40" size="12" color="10" face="96">S</s></t></n><n
  id="7859"
  p="748.68 719.99"
  Z="1392"
@@ -4504,10 +4511,10 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="745.30 724.29"
- BoundingBox="745.30 714.31 753.96 724.29"
+ p="744.35 724.28"
+ BoundingBox="745.26 715.70 752.03 724.28"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7891"
  p="719.24 685.99"
  Z="1415"
@@ -4552,11 +4559,11 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="746.70 701.01"
- BoundingBox="746.70 690.86 756.04 701.11"
+ p="746.14 701.08"
+ BoundingBox="746.72 692.34 754.94 701.23"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">O</s></t></n><n
+><s font="40" size="12" color="10" face="96">O</s></t></n><n
  id="7927"
  p="742.46 679.77"
  Z="1432"
@@ -4566,11 +4573,11 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="738.35 684.07"
- BoundingBox="738.35 673.92 747.69 684.17"
+ p="737.79 684.14"
+ BoundingBox="738.37 675.40 746.59 684.29"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">O</s></t></n><b
+><s font="40" size="12" color="10" face="96">O</s></t></n><b
  id="7860"
  Z="1393"
  B="7831"
@@ -4777,7 +4784,7 @@ CLogP: 3.51705
  Order="2"
 /></fragment><fragment
  id="67"
- BoundingBox="1010.25 627.40 1140.41 749.26"
+ BoundingBox="1010.25 627.61 1139.09 749.25"
  Z="1434"
 ><n
  id="7929"
@@ -4788,10 +4795,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1126.96 637.38"
- BoundingBox="1126.96 627.40 1134.29 637.38"
+ p="1126.19 637.37"
+ BoundingBox="1127.18 628.79 1132.97 637.37"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7930"
  p="1124.61 649.25"
  Z="1436"
@@ -4804,10 +4811,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1133.08 666.18"
- BoundingBox="1133.08 656.20 1140.41 666.18"
+ p="1132.31 666.17"
+ BoundingBox="1133.30 657.59 1139.09 666.17"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">F</s></t></n><n
+><s font="40" size="12" color="0" face="96">F</s></t></n><n
  id="7932"
  p="1107.98 652.78"
  Z="1438"
@@ -4816,10 +4823,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1103.87 657.08"
- BoundingBox="1103.87 646.93 1113.21 657.18"
+ p="1103.31 657.15"
+ BoundingBox="1103.89 648.41 1112.11 657.30"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">O</s></t></n><n
+><s font="40" size="12" color="0" face="96">O</s></t></n><n
  id="7933"
  p="1102.72 668.95"
  Z="1439"
@@ -4860,10 +4867,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1093.58 735.51"
- BoundingBox="1093.58 725.53 1102.24 735.51"
+ p="1092.63 735.50"
+ BoundingBox="1093.54 726.92 1100.31 735.50"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7941"
  p="1086.96 744.96"
  Z="1447"
@@ -4872,10 +4879,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1083.58 749.26"
- BoundingBox="1083.58 739.28 1092.24 749.26"
+ p="1082.63 749.25"
+ BoundingBox="1083.54 740.67 1090.31 749.25"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7942"
  p="1070.80 739.71"
  Z="1448"
@@ -4893,10 +4900,10 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1037.97 744.01"
- BoundingBox="1037.97 734.03 1046.63 744.01"
+ p="1037.02 744"
+ BoundingBox="1037.93 735.42 1044.70 744"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><n
+><s font="40" size="12" color="0" face="96">N</s></t></n><n
  id="7945"
  p="1041.35 722.71"
  Z="1451"
@@ -4914,11 +4921,11 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="1052.69 701.51"
- BoundingBox="1052.69 691.53 1061.35 701.51"
+ p="1051.74 701.50"
+ BoundingBox="1052.65 692.92 1059.42 701.50"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">N</s></t></n><n
+><s font="40" size="12" color="10" face="96">N</s></t></n><n
  id="7948"
  p="1069.83 687.22"
  Z="1454"
@@ -4928,11 +4935,11 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1066.45 691.52"
- BoundingBox="1066.45 681.54 1075.11 691.52"
+ p="1065.50 691.51"
+ BoundingBox="1066.41 682.93 1073.18 691.51"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">N</s></t></n><n
+><s font="40" size="12" color="10" face="96">N</s></t></n><n
  id="7949"
  p="1064.57 671.05"
  Z="1455"
@@ -4942,11 +4949,11 @@ CLogP: 3.51705
  NeedsClean="yes"
  AS="N"
 ><t
- p="1061.19 675.35"
- BoundingBox="1061.19 665.37 1069.85 675.35"
+ p="1060.24 675.34"
+ BoundingBox="1061.15 666.76 1067.92 675.34"
  color="10"
  LabelJustification="Left"
-><s font="37" size="12" color="10" face="96">N</s></t></n><n
+><s font="40" size="12" color="10" face="96">N</s></t></n><n
  id="7950"
  p="1047.57 671.05"
  Z="1456"
@@ -4994,10 +5001,10 @@ CLogP: 3.51705
  NumHydrogens="0"
  NeedsClean="yes"
 ><t
- p="1067.42 727.01"
- BoundingBox="1067.42 717.03 1076.08 727.01"
+ p="1066.47 727"
+ BoundingBox="1067.38 718.42 1074.15 727"
  LabelJustification="Left"
-><s font="37" size="12" color="0" face="96">N</s></t></n><b
+><s font="40" size="12" color="0" face="96">N</s></t></n><b
  id="7959"
  Z="1465"
  B="7929"
@@ -5221,69 +5228,69 @@ CLogP: 3.51705
 /></fragment><t
  id="7991"
  p="57.68 689.15"
- BoundingBox="23.66 678.29 91.70 719.68"
+ BoundingBox="24.51 680.41 91.70 716.90"
  Z="1499"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 19 28"
-><s font="37" size="12" color="0" face="1">MMV693161
+><s font="40" size="12" color="0" face="1">MMV693161
 EGT 48-1
 OSM-S-359</s></t><t
  id="7992"
  p="351.02 687.82"
- BoundingBox="317 676.96 385.04 718.35"
+ BoundingBox="317.85 679.08 385.04 715.57"
  Z="1500"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 19 28"
-><s font="37" size="12" color="0" face="1">MMV693162
+><s font="40" size="12" color="0" face="1">MMV693162
 EGT 45-1
 OSM-S-360</s></t><t
  id="7993"
  p="647.02 695.82"
- BoundingBox="613 684.96 681.04 726.35"
+ BoundingBox="613.85 687.08 681.04 723.57"
  Z="1501"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 19 28"
-><s font="37" size="12" color="0" face="1">MMV693163
+><s font="40" size="12" color="0" face="1">MMV693163
 EGT 39-1
 OSM-S-361</s></t><t
  id="7994"
  p="953.68 695.82"
- BoundingBox="919.66 684.96 987.70 726.35"
+ BoundingBox="920.51 687.08 987.70 723.57"
  Z="1502"
  Warning="Chemical Interpretation is not possible for this label"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="10 19 28"
-><s font="37" size="12" color="0" face="1">MMV693164
+><s font="42" size="12" color="0" face="1">MMV693165
 EGT 51-4
 OSM-S-362</s></t><t
  id="7995"
  p="160.63 769.08"
- BoundingBox="41.59 758.22 279.67 852.45"
+ BoundingBox="42.09 760.34 279.30 840.60"
  Z="1503"
  InterpretChemically="no"
  CaptionJustification="Center"
  Justification="Center"
  LineHeight="auto"
  LineStarts="45 76 107 132 147 171"
-><s font="37" size="12">5-(benzylthio)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">OS
-</s><s font="37" size="12">Molecular Weight: 384.40
+><s font="40" size="12">5-(benzylthio)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">OS
+</s><s font="40" size="12">Molecular Weight: 384.40
 CLogP: 4.39624
-</s><s font="37" size="12" color="0">Amount weighted: 2.20 mg</s></t><t
+</s><s font="40" size="12" color="0">Amount weighted: 2.20 mg</s></t><t
  id="7998"
  p="462.87 761.08"
- BoundingBox="368 750.22 557.74 860.16"
+ BoundingBox="368.60 752.34 557.74 846.40"
  Z="1504"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -5291,14 +5298,14 @@ CLogP: 4.39624
  LineHeight="auto"
  WordWrapWidth="207.60"
  LineStarts="24 49 80 112 137 152 176"
-><s font="37" size="12">5-(benzylsulfinyl)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">S
-</s><s font="37" size="12">Molecular Weight: 400.40
+><s font="40" size="12">5-(benzylsulfinyl)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">S
+</s><s font="40" size="12">Molecular Weight: 400.40
 CLogP: 2.84382
-</s><s font="37" size="12" color="0">Amount weighted: 1.91 mg</s></t><t
+</s><s font="40" size="12" color="0">Amount weighted: 1.91 mg</s></t><t
  id="7999"
  p="761.22 766.41"
- BoundingBox="666.35 755.55 856.09 865.49"
+ BoundingBox="666.95 757.67 856.09 851.73"
  Z="1505"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -5306,14 +5313,14 @@ CLogP: 2.84382
  LineHeight="auto"
  WordWrapWidth="205.56"
  LineStarts="24 49 80 112 137 152 176"
-><s font="37" size="12">5-(benzylsulfonyl)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">19</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">14</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">4</s><s font="37" size="12" face="96">O</s><s font="37" size="12" face="32">3</s><s font="37" size="12" face="96">S
-</s><s font="37" size="12">Molecular Weight: 416.40
+><s font="40" size="12">5-(benzylsulfonyl)-3-(4-(difluoromethoxy)phenyl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">19</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">14</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">4</s><s font="40" size="12" face="96">O</s><s font="40" size="12" face="32">3</s><s font="40" size="12" face="96">S
+</s><s font="40" size="12">Molecular Weight: 416.40
 CLogP: 2.52896
-</s><s font="37" size="12" color="0">Amount weighted: 1.73 mg</s></t><t
+</s><s font="40" size="12" color="0">Amount weighted: 1.73 mg</s></t><t
  id="8000"
  p="1075.33 769.12"
- BoundingBox="981.97 758.26 1168.69 868.20"
+ BoundingBox="982.47 760.38 1168.32 854.44"
  Z="1506"
  InterpretChemically="no"
  CaptionJustification="Center"
@@ -5321,11 +5328,11 @@ CLogP: 2.52896
  LineHeight="auto"
  WordWrapWidth="204"
  LineStarts="35 65 96 126 151 166 190"
-><s font="37" size="12">3-(4-(difluoromethoxy)phenyl)-5-(4-phenyl-1</s><s font="37" size="12" face="2">H</s><s font="37" size="12">-1,2,3-triazol-1-yl)-[1,2,4]triazolo[4,3-</s><s font="37" size="12" face="2">a</s><s font="37" size="12">]pyrazine
-Chemical Formula: </s><s font="37" size="12" face="96">C</s><s font="37" size="12" face="32">20</s><s font="37" size="12" face="96">H</s><s font="37" size="12" face="32">13</s><s font="37" size="12" face="96">F</s><s font="37" size="12" face="32">2</s><s font="37" size="12" face="96">N</s><s font="37" size="12" face="32">7</s><s font="37" size="12" face="96">O
-</s><s font="37" size="12">Molecular Weight: 405.37
+><s font="40" size="12">3-(4-(difluoromethoxy)phenyl)-5-(4-phenyl-1</s><s font="40" size="12" face="2">H</s><s font="40" size="12">-1,2,3-triazol-1-yl)-[1,2,4]triazolo[4,3-</s><s font="40" size="12" face="2">a</s><s font="40" size="12">]pyrazine
+Chemical Formula: </s><s font="40" size="12" face="96">C</s><s font="40" size="12" face="32">20</s><s font="40" size="12" face="96">H</s><s font="40" size="12" face="32">13</s><s font="40" size="12" face="96">F</s><s font="40" size="12" face="32">2</s><s font="40" size="12" face="96">N</s><s font="40" size="12" face="32">7</s><s font="40" size="12" face="96">O
+</s><s font="40" size="12">Molecular Weight: 405.37
 CLogP: 4.41433
-</s><s font="37" size="12" color="0">Amount weighted: 1.12 mg</s></t><chemicalproperty
+</s><s font="40" size="12" color="0">Amount weighted: 1.12 mg</s></t><chemicalproperty
  id="7677"
  ChemicalPropertyDisplayID="7085"
  ChemicalPropertyType="1 2 4 18"
@@ -5333,49 +5340,49 @@ CLogP: 4.41433
  PositioningOffset="847.51 200.26"
  BasisObjects="7023 7024 7025 7026 7027 7028 7029 7053 7054 7055 7056 7057 7058 7030 7031 7032 7059 7060 7061 7062 7033 7063 7034 7035 7036 7037 7038 7064 7065 7066 7067 7068 7069 7039 7070 7040 7071 7041 7072 7042 7073 7043 7074 7044 7075 7045 7076 7046 7047 7048 7049 7050 7077 7078 7079 7080 7081 7082 7051 7083"
 /><chemicalproperty
- id="7677"
+ id="8013"
  ChemicalPropertyDisplayID="7086"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
  PositioningOffset="520.12 199.90"
  BasisObjects="6957 6958 6959 6960 6961 6962 6963 6988 6989 6990 6991 6992 6993 6964 6965 6966 6994 6995 6996 6997 6967 6998 6968 6969 6970 6971 6972 6999 7000 7001 7002 7003 7004 6973 7005 6974 7006 6975 7007 6976 7008 6977 7009 6978 7010 6979 7011 6980 6981 6982 6983 6984 7012 7013 7014 7015 7016 7017 6986 7019 6987 7020"
 /><chemicalproperty
- id="7677"
+ id="8015"
  ChemicalPropertyDisplayID="7087"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
  PositioningOffset="179.35 202.23"
  BasisObjects="4512 4513 4514 4515 4516 4517 4518 4543 4544 4545 4546 4547 4548 4519 4520 4521 4549 4550 4551 4552 4522 4553 4523 4524 4525 4526 4527 4554 4555 4556 4557 5974 5975 4528 5976 4529 5977 4530 5978 4531 5979 4532 5980 4533 5981 4534 5982 5971 5972 5973 4585 4587 4589 4590 4591 4592 4593 4594 4595 4596 4597 4598 4599 4600"
 /><chemicalproperty
- id="7677"
+ id="8017"
  ChemicalPropertyDisplayID="7167"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
  PositioningOffset="1263.19 489.86"
  BasisObjects="7103 7104 7105 7106 7107 7108 7109 7134 7135 7136 7137 7138 7139 7110 7111 7112 7140 7141 7142 7143 7113 7144 7114 7115 7116 7117 7118 7145 7146 7147 7148 7149 7150 7119 7151 7120 7152 7121 7153 7122 7154 7123 7155 7124 7156 7125 7157 7126 7158 7127 7159 7128 7129 7130 7131 7132 7160 7161 7162 7163 7164 7165 7133 7166"
 /><chemicalproperty
- id="7677"
+ id="8019"
  ChemicalPropertyDisplayID="7192"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
  PositioningOffset="157.11 501.15"
  BasisObjects="6889 6890 6891 6892 6893 6894 6895 6916 6917 6918 6919 6920 6921 6896 6897 6898 6922 6923 6924 6925 6899 6926 6900 6901 6902 6903 6904 6927 6928 6929 6930 6931 6932 6905 6933 6906 6934 6907 6935 6908 6936 6909 6910 6911 6912 6913 6937 6938 6939 6940 6941 6942 6888 6914 6943 6915 6944"
 /><chemicalproperty
- id="7677"
+ id="8021"
  ChemicalPropertyDisplayID="7193"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
  PositioningOffset="430.92 501.82"
  BasisObjects="6708 6709 6710 6711 6712 6713 6714 6734 6735 6736 6737 6738 6739 6715 6716 6717 6740 6741 6742 6743 6718 6744 6719 6720 6721 6722 6723 6745 6746 6747 6748 6749 6750 6724 6751 6725 6752 6726 6753 6728 6755 6729 6730 6731 6732 6733 6756 6757 6758 6759 6760 6761 6763 6768 6769 6770 6771"
 /><chemicalproperty
- id="7677"
+ id="8023"
  ChemicalPropertyDisplayID="7194"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
  PositioningOffset="686.28 507.15"
  BasisObjects="6773 6774 6775 6776 6777 6778 6779 6800 6801 6802 6803 6804 6805 6780 6781 6782 6806 6807 6808 6809 6783 6810 6784 6785 6786 6787 6788 6811 6812 6813 6814 6815 6816 6789 6817 6790 6818 6791 6819 6792 6820 6793 6794 6795 6796 6797 6821 6822 6823 6824 6825 6826 6945 6946 7751 7763 7764"
 /><chemicalproperty
- id="7677"
+ id="8025"
  ChemicalPropertyDisplayID="7195"
  ChemicalPropertyType="1 2 4 18"
  PositioningType="absolute"
@@ -5393,7 +5400,7 @@ CLogP: 4.41433
  ChemicalPropertyType="1 2 4 18"
  BasisObjects="62 7774 7775 7776 7777 7778 7779 7780 7781 7782 7783 7784 7785 7786 7787 7788 7789 7790 7791 7792 7793 7794 7795 7796 7797 7798 7799 7800 28 7801 7802 7803 7804 7805 7806 7807 7808 7809 7810 7811 7812 7813 7814 7815 7816 7817 7818 7819 7820 7821 7822 7823 7824 7825 7826 7827 7828 7829 59 7830"
 /><chemicalproperty
- id="8003"
+ id="8027"
  ChemicalPropertyDisplayID="7999"
  ChemicalPropertyType="1 2 4 18"
  BasisObjects="64 7831 7832 7833 7834 7835 7836 7837 7838 7839 7840 7841 7842 7843 7844 7845 7846 7847 7848 7849 7859 7860 7861 7862 7863 7864 7865 7866 7867 7868 7869 7870 7871 7872 7873 7874 7875 7876 7877 7878 7889 61 7890 7891 7892 7893 7894 7895 7897 7899 7901 7903 7905 7906 7907 7908 7909 7910 7925 7926 7927 7928"
