@@ -10,4 +10,6 @@ The first paper on Series 4 is being assembled here: https://github.com/OpenSour
 
 OSM's landing page: http://opensourcemalaria.org/
 
+All the sources of data for the series are linked on the [wiki](https://github.com/OpenSourceMalaria/Series4/wiki/Sources-of-Data#molecules-and-how-to-visualize-them).
+
 
